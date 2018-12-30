@@ -1,6 +1,6 @@
 body {
 
-	background: url(images/background.jpg) repeat center top / cover;
+	background: url(background.jpg) repeat center top / cover;
 	padding: 0;
 	margin: 0;
 	font-family: "Courier New", serif;
@@ -38,7 +38,7 @@ header .element:hover {
 	margin-right: auto;
 	/background-color: #2d2d2d;
 	background: white;
-	/background: url(images/block.png) repeat center top / cover;
+	/background: url(block.png) repeat center top / cover;
 	}
 
 .menu .element {
@@ -57,7 +57,7 @@ header .element:hover {
 	margin-left: auto;
     	margin-right: auto;
         background-color: #28365f;
-	background: url("images/block.png") repeat;
+	background: url("block.png") repeat;
 	 
 	/border: solid 1px;
 	}
